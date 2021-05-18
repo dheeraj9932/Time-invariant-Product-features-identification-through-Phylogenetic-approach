@@ -1,4 +1,4 @@
-# phylogenetic_analysis_overview
+# phylogenetic analysis overview
 A comprehensive overview of phylogenetic analysis algorithms 
 
 Same information in three file formats.
