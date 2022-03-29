@@ -1,4 +1,4 @@
-# phylogenetic analysis overview
+# produkt_merkmale_phylogeny_approach
 A comprehensive overview of phylogenetic analysis algorithms 
 
 Same information in three file formats.
