@@ -1,5 +1,5 @@
-# Time invariant Product features identification through  
-Phylogenetic approach
+# Time invariant Product features identification through Phylogenetic approach
+
 Folders and their contents, short description. Refer to the “LookUpTable” for descriptions of files in this repository.
 
 ## code
