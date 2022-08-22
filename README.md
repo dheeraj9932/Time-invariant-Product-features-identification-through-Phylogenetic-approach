@@ -1,6 +1,7 @@
 # Time invariant Product features identification through  
 Phylogenetic approach
-Folders and their contents. short description. Refer to the “LookUpTable” for descriptions of files in this repository.
+Folders and their contents, short description. Refer to the “LookUpTable” for descriptions of files in this repository.
+
 ## code
 
 Python code files which were used for generating Phylogenetic trees.
