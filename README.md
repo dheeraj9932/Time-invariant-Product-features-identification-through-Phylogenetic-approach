@@ -5,7 +5,7 @@ The aim of the research is to perform feasibility research on the possibility of
 
 ![](SWIR_plot_local_normalised.png)*Visualisation of the reflectance behavior of 16 types of fabric materials with respect to incident light of varying frequency*
 
-![](sample materials.png)*16 Sample materials and their types*
+![](sample materials.png)*Sample materials and their types*
 
 ![](4 sections of Material sample wise Normalised Reflectance.png)*Sub division of reflectance behaviour into 4 equal sized ranges of light wavelength*
 
